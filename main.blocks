@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="1|oL.n#`|YPoBi@f4.~*" x="0" y="0"><statement name="HANDLER"><block type="set_traffic_light_state" id="#yC#Y0CV)SZ+,Y[VOV:s"><field name="lightState">Kitronik_STOPbit.LightStates.Stop</field></block></statement></block><block type="device_button_event" id="W:PW(OT:#shhnY@`!-IJ" x="26" y="170"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="set_traffic_light_led" id="b[di#w9NmHHpNQiAGUPG"><field name="ledColour">Kitronik_STOPbit.LightColours.Red</field><field name="illumination">Kitronik_STOPbit.DisplayLights.On</field></block></statement></block><block type="device_forever" id="2[]#ihSQgun|cxw]C2WJ" x="547" y="154"><statement name="HANDLER"><block type="device_show_leds" id="98GQ[J}(L.g?n`t^pZY,"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block></xml>
